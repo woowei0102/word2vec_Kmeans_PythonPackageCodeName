@@ -1,0 +1,15 @@
+# When making commits that are strictly formatting/style changes, add the
+# commit hash here, so git blame can ignore the change. See docs for more
+# details:
+# https://git-scm.com/docs/git-config#Documentation/git-config.txt-blameignoreRevsFile
+#
+# 
+# You should be able to execute either
+# ./tools/configure-git-blame-ignore-revs.bat or
+# ./tools/configure-git-blame-ignore-revs.sh
+#
+# Example entries:
+#
+# <full commit hash>  # initial black-format 
+# <full commit hash>  # rename something internal
+6e748726282d1acb9a4f9f264ee679c474c4b8f5  # Apply pygrade --36plus on IPython/core/tests/test_inputtransformer.py.

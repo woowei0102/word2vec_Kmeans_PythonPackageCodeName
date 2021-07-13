@@ -1,0 +1,8 @@
+https://github.com/TheAlgorithms/Python
+https://github.com/scipy/scipy/
+https://github.com/matplotlib/matplotlib
+https://github.com/ipython/ipython
+https://github.com/sympy/sympy
+https://github.com/pandas-dev/pandas
+https://github.com/numpy/numpy
+5690
